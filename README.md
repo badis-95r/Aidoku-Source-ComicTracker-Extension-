@@ -2,7 +2,7 @@
 
 Cette extension non-officielle pour l'application [Aidoku](https://aidoku.app) permet de lire les bandes dessinées et comics hébergés sur [Comics Tracker](https://comics-tracker.net) directement sur iOS/iPadOS.
 
-## 🌟 Fonctionnalités
+##  Fonctionnalités
 
 - **Catalogue & Page d'accueil :** Récupération automatique des dernières sorties et des séries populaires.
 - **Recherche :** Moteur de recherche intégré pour trouver vos éditions, runs ou évènements.
@@ -10,7 +10,7 @@ Cette extension non-officielle pour l'application [Aidoku](https://aidoku.app) p
 - **Authentification :** Connexion via vos identifiants Comics Tracker pour accéder aux chapitres.
 - **Haute Résolution :** Contourne la compression pour afficher les planches avec une netteté maximale, idéal pour lire les doubles-pages sur iPad.
 
-## 🚀 Installation
+##  Installation
 
 Si vous avez seulement besoin d'utiliser l'extension :
 
@@ -21,7 +21,7 @@ Si vous avez seulement besoin d'utiliser l'extension :
 5. Sélectionnez le fichier `ComicsTracker.aix`.
 6. Une fois installé, allez dans les **Paramètres de l'extension** (icône d'engrenage) et rentrez vos identifiants (Email et Mot de passe) Comics Tracker pour pouvoir lire les chapitres.
 
-## 🛠 Compilation (Build)
+##  Compilation (Build)
 
 Si vous souhaitez modifier le code ou compiler vous-même l'extension à partir des sources.
 
@@ -48,7 +48,7 @@ Ce script va :
 3. Préparer le dossier `Payload` avec le `.wasm`, `source.json`, `settings.json` et `icon.png`.
 4. Compresser le tout et générer le fichier **`ComicsTracker.aix`**.
 
-## 🧩 Architecture du code (Pour les développeurs)
+## Architecture du code (Pour les développeurs)
 
 Le projet est écrit en **Rust** et utilise le SDK Aidoku. Si vous souhaitez y apporter des modifications, voici comment le code est structuré dans le dossier `src/` :
 
