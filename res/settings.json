@@ -1,0 +1,21 @@
+[
+  {
+    "type": "group",
+    "title": "Authentification Comics Tracker (Requis pour lire les chapitres)",
+    "items": [
+      {
+        "type": "text",
+        "key": "ct_email",
+        "title": "Email",
+        "placeholder": "email@example.com"
+      },
+      {
+        "type": "text",
+        "key": "ct_password",
+        "title": "Mot de passe",
+        "placeholder": "Votre mot de passe",
+        "secure": true
+      }
+    ]
+  }
+]

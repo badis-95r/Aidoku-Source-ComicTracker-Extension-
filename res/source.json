@@ -1,0 +1,11 @@
+{
+    "info": {
+        "id": "fr.comicstracker.source",
+        "name": "Comics Tracker",
+        "version": 1,
+        "url": "https://comics-tracker.net",
+        "contentRating": 0,
+        "languages": ["fr"],
+        "minAppVersion": "0.7.1"
+    }
+}
